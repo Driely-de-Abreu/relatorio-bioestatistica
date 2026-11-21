@@ -12,7 +12,7 @@ O projeto também busca aplicar conceitos de estatística descritiva e inferenci
 
 ### Objetivo geral
 
-Aplicar métodos de bioestatística na análise de dados relacionados a doenças renais, utilizando ferramentas computacionais para explorar variáveis e investigar possíveis associações e diferenças estatísticas.
+Investigar a associação entre sete parâmetros relacionados à análise de urina e a classificação de doença renal crônica, utilizando métodos estatísticos para comparar os resultados entre pacientes com e sem a doença.
 
 ### Objetivos específicos
 
