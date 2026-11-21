@@ -23,6 +23,11 @@ Investigar a associação entre sete parâmetros relacionados à análise de uri
 - Aplicar métodos de inferência estatística.
 - Formular e testar hipóteses estatísticas.
 - Interpretar os resultados obtidos à luz dos conceitos estudados na disciplina.
+- Caracterizar os sete parâmetros selecionados;
+- Comparar os resultados dos exames entre os dois grupos de pacientes;
+- Formular hipóteses estatísticas para cada parâmetro;
+- Selecionar e aplicar testes estatísticos adequados;
+- Interpretar os resultados obtidos.
 
 
 ## Conjunto de dados
