@@ -45,3 +45,6 @@ A descrição detalhada das variáveis, das observações e dos procedimentos de
 ## Tecnologias utilizadas
 
 ## Autores
+
+Carolina Jacovete dos Santos Breda
+Driely Fernanda Oliveira de Abreu
