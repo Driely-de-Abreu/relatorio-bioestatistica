@@ -40,6 +40,22 @@ A descrição detalhada das variáveis, das observações e dos procedimentos de
 
 ## Metodologia
 
+O desenvolvimento do projeto foi dividido em etapas de análise exploratória e análise estatística inferencial.
+
+Inicialmente, foi realizada a exploração do conjunto de dados, com identificação das variáveis, análise de seus tipos e verificação da quantidade de valores ausentes. Também foi realizado o tratamento da variável de classificação dos pacientes, padronizando os rótulos correspondentes à presença ou ausência de doença renal crônica.
+
+Na etapa exploratória, foram utilizadas tabelas de frequência e tabelas de contingência para investigar a distribuição das variáveis selecionadas e sua relação com a classificação dos pacientes.
+
+Na etapa inferencial, foi aplicado o teste qui-quadrado de independência para avaliar a existência de associação entre os parâmetros analisados e a classificação dos pacientes. Antes da aplicação dos testes, foram verificadas as frequências esperadas das tabelas de contingência. Quando necessário, categorias foram agrupadas para atender aos critérios de aplicação do teste.
+
+Foi adotado nível de significância de 5% (α = 0,05). As análises consideraram as observações disponíveis para cada variável, desconsiderando os valores ausentes.
+
+### Notebook de análise
+
+O desenvolvimento das análises estatísticas foi realizado no Google Colab, utilizando Python. O notebook completo, contendo os procedimentos de exploração dos dados, análises estatísticas e resultados, pode ser acessado pelo link abaixo:
+
+[ Acessar notebook no Google Colab ](https://colab.research.google.com/drive/1f12V1FXTJq3Z957jPyoF8mMkG6Hx1tiG#scrollTo=yYMHd2V78KUg)
+
 ## Organização do repositório
 
 ## Tecnologias utilizadas
