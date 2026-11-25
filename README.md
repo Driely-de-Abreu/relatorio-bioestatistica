@@ -58,6 +58,15 @@ O desenvolvimento das análises estatísticas foi realizado no Google Colab, uti
 
 ## Organização do repositório
 
+Atualmente, o repositório contém o arquivo `README.md`, responsável por apresentar o projeto, seus objetivos, o conjunto de dados utilizado e a metodologia adotada.
+
+O notebook com o desenvolvimento das análises estatísticas está disponível no Google Colab, por meio do link disponibilizado na seção anterior.
+
+```text
+relatorio-bioestatistica/
+└── README.md
+```
+
 ## Tecnologias utilizadas
 
 ## Autores
