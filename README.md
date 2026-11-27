@@ -54,7 +54,8 @@ Foi adotado nível de significância de 5% (α = 0,05). As análises considerara
 
 O desenvolvimento das análises estatísticas foi realizado no Google Colab, utilizando Python. O notebook completo, contendo os procedimentos de exploração dos dados, análises estatísticas e resultados, pode ser acessado pelo link abaixo:
 
-[ Acessar notebook no Google Colab ](https://colab.research.google.com/drive/1f12V1FXTJq3Z957jPyoF8mMkG6Hx1tiG#scrollTo=yYMHd2V78KUg)
+[ Acessar notebook no Google Colab ]
+(https://colab.research.google.com/drive/1f12V1FXTJq3Z957jPyoF8mMkG6Hx1tiG#scrollTo=YSrp4WPfVdsw)
 
 ## Organização do repositório
 
