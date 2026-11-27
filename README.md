@@ -68,7 +68,10 @@ relatorio-bioestatistica/
 └── README.md
 ```
 
-## Tecnologias utilizadas
+## Relatório e análise
+
+- [Relatório final em PDF](Relatorio_de_Bioestatistica.pdf)
+- [Notebook com as análises estatísticas](analise_bioestatistica_kidney_disease.ipynb)
 
 ## Autores
 
